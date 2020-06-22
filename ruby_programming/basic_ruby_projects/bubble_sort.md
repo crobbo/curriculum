@@ -28,6 +28,10 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+<<<<<<< HEAD
+=======
+* [Coding Shawn's Solution](https://github.com/CodingShawn/TOP-Ruby-Bubble-Sort)
+>>>>>>> 6f552cb83c79131ac48c448b8b4c49df55d02eb0
 * [Darren's Solution](https://github.com/DarrenLo0530/ruby-tests/blob/master/bubblesort.rb)
 * [Eduardo's Solution](https://github.com/helloeduardo/bubble_sort) - [View Demo](https://repl.it/@helloeduardo/bubblesort#bubble_sort.rb)
 * [Uduak Essien's solution](https://github.com/acushlakoncept/Bubble-Sort) - [View Demo](https://repl.it/@Acushla/Bubble-Sort-7#uduak_bubblesort.rb)
@@ -469,4 +473,8 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [BLuu's Solution](https://github.com/bryanluu/TOP_ruby/blob/master/bubblesort.rb)
 * [mpiriya's Solution](https://github.com/mpiriya/ruby/blob/master/bubble_sort.rb)
 * [seapouf's Solution](https://github.com/NotAProgrammerdork/Ruby/blob/master/bubble_sort.rb)
+<<<<<<< HEAD
+=======
+* [tim87henry's Solution](https://github.com/tim87henry/ruby_practice/blob/master/bubble_sort.rb)
+>>>>>>> 6f552cb83c79131ac48c448b8b4c49df55d02eb0
 </details>
